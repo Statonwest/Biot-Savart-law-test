@@ -7,4 +7,8 @@ This experiment aims to determine the magnetic field strength in a slinky relati
 
 # How to use
 Fill in the code portions with your data, e.g. L= length, becomes L= 2.
+<<<<<<< HEAD
 Run each cell in order to ensure the correct values are saved in memory.
+=======
+Run each cell in order to ensure the correct values are saved in memory.
+>>>>>>> 63c51a3 (	modified:   README.md)
